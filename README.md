@@ -1,4 +1,4 @@
 CristianGartner
 ===============
 
-Official Site www.CristianGartner.com - html5 - css3 - jQuery - JavaScript
+Official Site www.CrisGartner.com - html5 - css3 - jQuery - JavaScript
